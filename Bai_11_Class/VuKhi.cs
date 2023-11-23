@@ -3,11 +3,21 @@ namespace Bai_11_Class
     class VuKhi
     {
         public string name = "Tên Vũ Khí";
-
         int dosatthuong = 0;
+        public int satthuong
+        {
+            set
+            {
+                dosatthuong = value;
+            }
+            get
+            {
+                return dosatthuong;
+            }
+        }
         public VuKhi()
         {
-            this.dosatthuong = 1;
+
         }
         public VuKhi(string name, int dosatthuong)
         {
@@ -21,7 +31,7 @@ namespace Bai_11_Class
         public void TanCong()
         {
             Console.Write(name + ": \t");
-            for (int i = 0; i < dosatthuong; i++)
+            for (int i = 0; i <= dosatthuong; i++)
             {
                 Console.Write(" * ");
             }
