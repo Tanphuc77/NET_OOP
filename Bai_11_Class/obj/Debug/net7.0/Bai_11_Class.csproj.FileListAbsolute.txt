@@ -1,0 +1,14 @@
+D:\.NET\Bai_11_Class\bin\Debug\net7.0\Bai_11_Class.exe
+D:\.NET\Bai_11_Class\bin\Debug\net7.0\Bai_11_Class.deps.json
+D:\.NET\Bai_11_Class\bin\Debug\net7.0\Bai_11_Class.runtimeconfig.json
+D:\.NET\Bai_11_Class\bin\Debug\net7.0\Bai_11_Class.dll
+D:\.NET\Bai_11_Class\bin\Debug\net7.0\Bai_11_Class.pdb
+D:\.NET\Bai_11_Class\obj\Debug\net7.0\Bai_11_Class.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\Bai_11_Class\obj\Debug\net7.0\Bai_11_Class.AssemblyInfoInputs.cache
+D:\.NET\Bai_11_Class\obj\Debug\net7.0\Bai_11_Class.AssemblyInfo.cs
+D:\.NET\Bai_11_Class\obj\Debug\net7.0\Bai_11_Class.csproj.CoreCompileInputs.cache
+D:\.NET\Bai_11_Class\obj\Debug\net7.0\Bai_11_Class.dll
+D:\.NET\Bai_11_Class\obj\Debug\net7.0\refint\Bai_11_Class.dll
+D:\.NET\Bai_11_Class\obj\Debug\net7.0\Bai_11_Class.pdb
+D:\.NET\Bai_11_Class\obj\Debug\net7.0\Bai_11_Class.genruntimeconfig.cache
+D:\.NET\Bai_11_Class\obj\Debug\net7.0\ref\Bai_11_Class.dll

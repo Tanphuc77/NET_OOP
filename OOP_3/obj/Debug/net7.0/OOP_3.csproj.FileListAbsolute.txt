@@ -1,0 +1,14 @@
+D:\.NET\OOP_3\bin\Debug\net7.0\OOP_3.exe
+D:\.NET\OOP_3\bin\Debug\net7.0\OOP_3.deps.json
+D:\.NET\OOP_3\bin\Debug\net7.0\OOP_3.runtimeconfig.json
+D:\.NET\OOP_3\bin\Debug\net7.0\OOP_3.dll
+D:\.NET\OOP_3\bin\Debug\net7.0\OOP_3.pdb
+D:\.NET\OOP_3\obj\Debug\net7.0\OOP_3.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\OOP_3\obj\Debug\net7.0\OOP_3.AssemblyInfoInputs.cache
+D:\.NET\OOP_3\obj\Debug\net7.0\OOP_3.AssemblyInfo.cs
+D:\.NET\OOP_3\obj\Debug\net7.0\OOP_3.csproj.CoreCompileInputs.cache
+D:\.NET\OOP_3\obj\Debug\net7.0\OOP_3.dll
+D:\.NET\OOP_3\obj\Debug\net7.0\refint\OOP_3.dll
+D:\.NET\OOP_3\obj\Debug\net7.0\OOP_3.pdb
+D:\.NET\OOP_3\obj\Debug\net7.0\OOP_3.genruntimeconfig.cache
+D:\.NET\OOP_3\obj\Debug\net7.0\ref\OOP_3.dll

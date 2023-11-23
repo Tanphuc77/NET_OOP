@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kjSLTNP+I1PH2IYVNlf9w3FKfQHox6YxDKJioFhBvSBuRcPfX1jm4+7oQ8gtA4mbj2GZXKIakqTxBoCmGTtG+w==",
+  "success": true,
+  "projectFilePath": "D:\\.NET\\Bai_10_Package\\Bai_10_Package.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS-PRO\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

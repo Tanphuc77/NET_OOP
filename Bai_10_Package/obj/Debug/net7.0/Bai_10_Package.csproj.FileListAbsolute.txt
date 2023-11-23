@@ -1,0 +1,17 @@
+D:\.NET\Bai_10_Package\obj\Debug\net7.0\Bai_10_Package.csproj.AssemblyReference.cache
+D:\.NET\Bai_10_Package\obj\Debug\net7.0\Bai_10_Package.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\Bai_10_Package\obj\Debug\net7.0\Bai_10_Package.AssemblyInfoInputs.cache
+D:\.NET\Bai_10_Package\obj\Debug\net7.0\Bai_10_Package.AssemblyInfo.cs
+D:\.NET\Bai_10_Package\obj\Debug\net7.0\Bai_10_Package.csproj.CoreCompileInputs.cache
+D:\.NET\Bai_10_Package\bin\Debug\net7.0\Bai_10_Package.exe
+D:\.NET\Bai_10_Package\bin\Debug\net7.0\Bai_10_Package.deps.json
+D:\.NET\Bai_10_Package\bin\Debug\net7.0\Bai_10_Package.runtimeconfig.json
+D:\.NET\Bai_10_Package\bin\Debug\net7.0\Bai_10_Package.dll
+D:\.NET\Bai_10_Package\bin\Debug\net7.0\Bai_10_Package.pdb
+D:\.NET\Bai_10_Package\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\.NET\Bai_10_Package\obj\Debug\net7.0\Bai_10_Package.csproj.CopyComplete
+D:\.NET\Bai_10_Package\obj\Debug\net7.0\Bai_10_Package.dll
+D:\.NET\Bai_10_Package\obj\Debug\net7.0\refint\Bai_10_Package.dll
+D:\.NET\Bai_10_Package\obj\Debug\net7.0\Bai_10_Package.pdb
+D:\.NET\Bai_10_Package\obj\Debug\net7.0\Bai_10_Package.genruntimeconfig.cache
+D:\.NET\Bai_10_Package\obj\Debug\net7.0\ref\Bai_10_Package.dll

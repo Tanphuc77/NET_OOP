@@ -1,0 +1,14 @@
+D:\.NET\Bai_9_Methods\bin\Debug\net7.0\Bai_9_Methods.exe
+D:\.NET\Bai_9_Methods\bin\Debug\net7.0\Bai_9_Methods.deps.json
+D:\.NET\Bai_9_Methods\bin\Debug\net7.0\Bai_9_Methods.runtimeconfig.json
+D:\.NET\Bai_9_Methods\bin\Debug\net7.0\Bai_9_Methods.dll
+D:\.NET\Bai_9_Methods\bin\Debug\net7.0\Bai_9_Methods.pdb
+D:\.NET\Bai_9_Methods\obj\Debug\net7.0\Bai_9_Methods.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\Bai_9_Methods\obj\Debug\net7.0\Bai_9_Methods.AssemblyInfoInputs.cache
+D:\.NET\Bai_9_Methods\obj\Debug\net7.0\Bai_9_Methods.AssemblyInfo.cs
+D:\.NET\Bai_9_Methods\obj\Debug\net7.0\Bai_9_Methods.csproj.CoreCompileInputs.cache
+D:\.NET\Bai_9_Methods\obj\Debug\net7.0\Bai_9_Methods.dll
+D:\.NET\Bai_9_Methods\obj\Debug\net7.0\refint\Bai_9_Methods.dll
+D:\.NET\Bai_9_Methods\obj\Debug\net7.0\Bai_9_Methods.pdb
+D:\.NET\Bai_9_Methods\obj\Debug\net7.0\Bai_9_Methods.genruntimeconfig.cache
+D:\.NET\Bai_9_Methods\obj\Debug\net7.0\ref\Bai_9_Methods.dll
